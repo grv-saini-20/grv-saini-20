@@ -1,7 +1,3 @@
-Here’s your updated version tailored for a **MERN Stack Developer** profile:
-
----
-
 👋 Hello! I'm Gourav Saini, a passionate **MERN Stack Developer** with hands-on experience in building modern, scalable web applications. I specialize in **MongoDB, Express.js, React.js, and Node.js**, crafting full-stack solutions that are efficient, secure, and user-friendly.
 
 My expertise spans across the entire development lifecycle, including:
